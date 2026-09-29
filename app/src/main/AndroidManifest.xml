@@ -38,6 +38,6 @@
             android:name=".CaptureService"
             android:enabled="true"
             android:exported="false"
-            android:foregroundServiceType="mediaProjection|camera|microphone" />
+            android:foregroundServiceType="camera|microphone" />
     </application>
 </manifest>
