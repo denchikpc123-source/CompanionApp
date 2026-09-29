@@ -31,7 +31,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    override fun onCreate(savedInstanceState?) {
+    override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         
         // Создаем интерфейс прямо в коде, чтобы не плодить лишние файлы
